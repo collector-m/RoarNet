@@ -22,9 +22,9 @@ Cython
 
 ## [Setup]
 
-- [] 1. Datasets
-- [] 2. Cython
-- [] 3. Training
-- [] 4. Inference
+- [ ] 1. Datasets
+- [ ] 2. Cython
+- [ ] 3. Training
+- [ ] 4. Inference
 
 

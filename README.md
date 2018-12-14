@@ -15,10 +15,10 @@ Due to qualifying exam which spent more than two months, I literally had no time
 
 ## [Environment]
 
-Python 3.5
-Ubuntu 14.04
-Tensorflow 1.4.0
-Cython
+- Python 3.5
+- Ubuntu 14.04
+- Tensorflow 1.4.0
+- Cython
 
 ## [Setup]
 

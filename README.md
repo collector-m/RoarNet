@@ -22,9 +22,9 @@ Due to qualifying exam which spent more than two months, I literally had no time
 
 ## [Setup]
 
+- [ ] 0. Network structure and loss
 - [ ] 1. Datasets
-- [ ] 2. Cython
-- [ ] 3. Training
-- [ ] 4. Inference
+- [x] 2. Cython
+- [ ] 3. Training and inference
 
 

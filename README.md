@@ -15,16 +15,16 @@ Due to qualifying exam which spent more than two months, I literally had no time
 
 ## [Environment]
 
-Python 3.5
-Ubuntu 14.04
-Tensorflow 1.4.0
-Cython
+- Python 3.5
+- Ubuntu 14.04
+- Tensorflow 1.4.0
+- Cython
 
 ## [Setup]
 
+- [ ] 0. Network structure and loss
 - [ ] 1. Datasets
-- [ ] 2. Cython
-- [ ] 3. Training
-- [ ] 4. Inference
+- [x] 2. Cython
+- [ ] 3. Training and inference
 
 
